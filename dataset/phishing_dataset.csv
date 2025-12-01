@@ -1,0 +1,9 @@
+email_text,label
+"Your account is locked. Click here to reset your password",phishing
+"Verify your login information immediately or your account will be suspended",phishing
+"Congratulations! You won a gift card. Claim now",phishing
+"Urgent: Update your billing details to avoid interruption",phishing
+"Invoice attached for your recent purchase",legit
+"Meeting scheduled tomorrow at 10am",legit
+"Your Amazon order has been shipped",legit
+"Employee attendance report for this month attached",legit
